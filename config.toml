@@ -1,6 +1,6 @@
-baseURL = "https://lines-hugo-theme.netlify.app/"
+baseURL = "https://themambadev.github.io"
 languageCode = "en-us"
-title = "Lines - Minimalist Hugo theme"
+title = "TheMambaDev - that somali dev"
 disableKinds = ["section", "categories"]
 disqusShortname = ""
 pygmentsCodeFences = false
@@ -27,7 +27,7 @@ minify = true
     disable = true
 
 [Author]
-  name = ""
+  name = "TheMambaDev"
 
 [params]
   description = ""
@@ -67,19 +67,21 @@ minify = true
 
 [menu]
   [[menu.main]]
-    identifier = "index"
-    name       = "Index"
+    identifier = "home"
+    name       = "home"
     url        = "/"
-    weight     = -111
+    weight     = -100
 
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "/about/"
+    identifier = "mistakes"
+    name       = "mistakes"
+    url        = "/mistakes/"
+    weight     = -30
+
+
+  [[menu.main]]
+    identifier = "who?"
+    name       = "who"
+    url        = "/who/"
     weight     = -20
 
-  [[menu.main]]
-    identifier = "rss"
-    name       = "RSS"
-    url        = "/atom.xml"
-    weight     = -10
