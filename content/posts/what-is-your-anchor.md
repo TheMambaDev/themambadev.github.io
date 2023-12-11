@@ -1,9 +1,14 @@
 ---
-title: "Lorem ipsum"
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
+title: "What is your anchor?"
+description: "what determines your habits, decisions and actions?"
 date: "2023-12-11"
 tags:
-- Lorem
-- Ipsum
+- filosofi
+- general
+- life
+- english
 ---
+
+### _what determines your habits, decisions and actions?_
+
 
