@@ -1,13 +1,19 @@
 ---
-title: "mistakes"
+title: "Mistakes"
 ---
 
 ## Mistakes That I Learned From
+a non-exhaustive list of mistakes i made and learned from to remind myself, also i will be updating it In Sha' Allah.
 
-1. **I know less than i think i know** - nov, 2022
+**I know less than i think i know** - Nov, 2022
 
-- for as long as i know.....
+Expanding on this soon
 
-2. **I am a better leader than a follower** - nov, 2022
+**I am a better leader than a follower** - May, 2020
 
-- for as long as i know.....
+Expanding on this soon
+
+**Standing still equals regressing** - Feb, 2021
+
+Expanding on this soon
+
