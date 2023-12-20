@@ -25,7 +25,12 @@ You will find me bragging about stuff i did, occasionally.
 
 ## Stuff
 - **I Made**
-  - [ardaa.dev](https://ardaa.dev)
+  - [ardaa.dev](https://ardaa.dev) (under construction) - a blogging platform for the Somali tech community.
+  - [omr system](https://github.com/TheMambaDev/omr-fastapi) - a fastapi based marking system for school teachers.
+  - [an opinionated go framework](https://github.com/theMambaDev/slick) - a go api starter with batteries included.
+  - [brand identity and creative direction](https://www.facebook.com/RiseUpETH/)
+- **I Taught**
+  - [Design Principles](https://www.facebook.com/theRUacademy/) - a month long workshop on design principles for 20+ students.
 - **I Won**
   - [SolveIt 2019](https://www.facebook.com/icoglabs/photos/a.202667183262651/1028808177315210/) - wasn't even a competition tbh but i won a free 2 week trip to Addis so not complaining.
 - **I Like**
