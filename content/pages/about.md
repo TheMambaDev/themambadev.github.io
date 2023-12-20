@@ -25,10 +25,15 @@ You will find me bragging about stuff i did, occasionally.
 
 ## Stuff
 - **I Made**
-  - [ardaa.dev](https://ardaa.dev) (under construction) - a blogging platform for the Somali tech community.
-  - [omr system](https://github.com/TheMambaDev/omr-fastapi) - a fastapi based marking system for school teachers.
-  - [an opinionated go framework](https://github.com/theMambaDev/slick) - a go api starter with batteries included.
-  - [brand identity and creative direction](https://www.facebook.com/RiseUpETH/)
+  - [ardaa](https://ardaa.dev) (under construction) - a blogging platform for the Somali tech community.
+  - [Omr System](https://github.com/TheMambaDev/omr-fastapi) - a fastapi based marking system for school teachers.
+  - [An Opinionated Go Framework](https://github.com/theMambaDev/slick) - a go api starter with batteries included.
+
+- **I Designed**
+  - [Riseup Brand](https://www.facebook.com/RiseUpETH/)
+  - [Bayahow Book Creative Direction and Editing](https://www.ovset.org/_files/ugd/fd38e0_532f02ae304442afa4800c5d610ec726.pdf) - a report of some sort *wink wink*
+  - [Ammaan Online Brand](https://www.facebook.com/photo/?fbid=140602878293589&set=pcb.140603034960240)
+
 - **I Taught**
   - [Design Principles](https://www.facebook.com/theRUacademy/) - a month long workshop on design principles for 20+ students.
 - **I Won**
