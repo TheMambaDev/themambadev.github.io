@@ -66,5 +66,7 @@ I don't use social media strictly because of privacy reasons, also i might sound
 
 **Email** -> [here](mailto:abdusalam.mah@gmail.com)
 
+**Gab** -> [here](https://gab.com/themambadev)
+
 
 **Whatsapp** -> HA! i don't know you like that yet.
